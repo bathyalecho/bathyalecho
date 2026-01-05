@@ -1,4 +1,4 @@
-## Hello! I'm your friendly neighboorhood computer hacker!
+## Hello! I'm Alexis!
 
 - 🔭 I’m currently working on [nvim-strudel!](https://github.com/Goshujinsama/nvim-strudel)
 - 🌱 I’m currently learning Nix and Haskell 
