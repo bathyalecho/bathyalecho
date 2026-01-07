@@ -1,4 +1,4 @@
-## Hello! I'm Alexis!
+## Hello!
 
 - 🌱 I’m currently learning Nix and Haskell 
 - 🤔 I’m looking for help with collaboration!
