@@ -1,6 +1,5 @@
 ## Hello!
 
-- 🌱 I’m currently learning Nix, Rust, and Haskell 
-- 🤔 I’m looking for help with collaboration!
+- 🌱 I’m currently learning Nix, Rust, Haskell, cybersecurity and data science!
 - 📫 How to reach me: bathyalecho@protonmail.com
 - 😄 Pronouns: she/her
